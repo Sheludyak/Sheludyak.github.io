@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Sheludyak.github.io
+title: Sheludyak
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 15
